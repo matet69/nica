@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 7.5.3.2 (MacOSX)"/>
+	<meta name="created" content="2024-12-29T03:58:45.548393190"/>
+	<meta name="changed" content="2024-12-29T04:00:49.060348082"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+	</style>
+</head>
+<body lang="pl-PL" link="#000080" vlink="#800000" dir="ltr"><p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt"><br/>
+body
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">font-family:
+Arial, sans-serif;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">margin:
+20px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">background-color:
+#f4f4f9;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">color:
+#333;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">header
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">text-align:
+center;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">margin-bottom:
+20px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.filters
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">display:
+flex;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">justify-content:
+space-between;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">margin-bottom:
+20px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">#add-task
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">background-color:
+#4CAF50;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">color:
+white;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">border:
+none;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">padding:
+10px 15px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">font-size:
+16px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">cursor:
+pointer;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.date-range
+select {</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">padding:
+5px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">font-size:
+14px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.schedule
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">display:
+grid;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">grid-template-columns:
+repeat(7, 1fr);</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">gap:
+10px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.day
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">background-color:
+white;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">border:
+1px solid #ddd;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">padding:
+10px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">border-radius:
+5px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">text-align:
+center;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.hidden
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">display:
+none;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">#task-modal
+{</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">position:
+fixed;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">top:
+50%;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">left:
+50%;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">transform:
+translate(-50%, -50%);</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">background-color:
+white;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">border:
+1px solid #ccc;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">border-radius:
+10px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">padding:
+20px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">box-shadow:
+0 5px 15px rgba(0, 0, 0, 0.3);</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">z-index:
+1000;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<br/>
+
+</p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">.modal-content
+button {</font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">margin:
+10px 5px 0;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000">&nbsp; <font face="Helvetica"><font size="1" style="font-size: 6pt"><span style="font-style: normal"><span style="font-weight: normal">padding:
+10px 15px;</span></span></font></font></font></p>
+<p style="font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; margin-bottom: 0cm">
+<font color="#000000"><font face="Helvetica"><font size="1" style="font-size: 6pt">}</font></font></font></p>
+<p style="line-height: 100%; margin-bottom: 0cm"><font color="#000000"><br/>
+</font><br/>
+
+</p>
+</body>
+</html>
